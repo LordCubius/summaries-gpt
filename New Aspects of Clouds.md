@@ -35,4 +35,6 @@ Summary of the Transcript on Cloud Computing
     Data Storage and Querying: In addition to processing data, new cloud systems focus on efficient storage and querying.
         Traditional relational databases like MySQL are still in use, but NoSQL and Key-Value Stores have become dominant due to their speed and scalability in cloud environments.
 
+![Self-explained image](https://upload.wikimedia.org/wikipedia/commons/f/ff/Comparison_of_on-premise%2C_IaaS%2C_PaaS%2C_and_SaaS.png)
+
 This lecture emphasizes the shift towards data-intensive computing in cloud environments, the on-demand access pricing model, and the evolution of cloud services from infrastructure (IaaS) to more abstracted services like PaaS and SaaS. It also introduces the MapReduce paradigm and other cloud programming models, which are essential for large-scale data processing.
